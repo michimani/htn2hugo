@@ -90,13 +90,13 @@ Thie is a sample post.
 
 
 <a href="https://f.hatena.ne.jp/michimani/20180912345678">
-	<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/michimani/20180911/20180912345678.jpg" alt="20180912345678">
+  <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/michimani/20180911/20180912345678.jpg" alt="20180912345678">
 </a>
 
 
 <blockquote class="twitter-tweet" >
-	<p lang="ja" dir="ltr"></p>
-	<a href="https://twitter.com/michimani210/status/1340486979226460160"></a>
+  <p lang="ja" dir="ltr"></p>
+  <a href="https://twitter.com/michimani210/status/1340486979226460160"></a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

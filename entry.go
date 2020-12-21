@@ -58,17 +58,17 @@ url: "/%s"
 `
 	photolifeJPEGLink string = `
 <a href="https://f.hatena.ne.jp/$1/$2$3">
-	<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/$1/$2/$2$3.jpg" alt="$2$3">
+  <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/$1/$2/$2$3.jpg" alt="$2$3">
 </a>`
 	photolifePNGLink string = `
 <a href="https://f.hatena.ne.jp/$1/$2$3">
-	<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/$1/$2/$2$3.png" alt="$2$3">
+  <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/$1/$2/$2$3.png" alt="$2$3">
 </a>
 `
 	twitterEmbedLink string = `
 <blockquote class="twitter-tweet" >
-	<p lang="ja" dir="ltr"></p>
-	<a href="https://twitter.com/$1"></a>
+  <p lang="ja" dir="ltr"></p>
+  <a href="https://twitter.com/$1"></a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 `
