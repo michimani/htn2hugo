@@ -136,7 +136,7 @@ $ docker build -t htn2hugo .
 $ docker run \
 -e HTN_ID=<your hatena ID> \
 -e HTN_API_KEY=<your hatena API key> \
--v <path to your hugo dir>/content/posts:/dist htn2hugo
+-v <path to your hugo dir>/content/posts:/go/dist htn2hugo
 ```
 
 ## Note

@@ -1,7 +1,7 @@
 FROM golang:1.15.5-alpine3.12
 
 COPY . /app
-RUN mkdir /dist \
+RUN mkdir /go/dist \
 && cd /app \
 && go build
 

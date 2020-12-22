@@ -19,7 +19,7 @@ var (
 	hatenaId        string
 	hatenaAPIKey    string
 	host            string
-	saveDir         string = "/dist/"
+	saveDir         string = "./dist/"
 )
 
 func main() {
