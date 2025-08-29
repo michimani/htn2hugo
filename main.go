@@ -91,7 +91,7 @@ func init() {
 	}
 
 	fmt.Printf("Hatena ID: %s\n", hatenaId)
-	initialAtomLink = fmt.Sprintf("https://blog.hatena.ne.jp/%s/%s.hateblo.jp/atom/entry", hatenaId, hatenaId)
+	initialAtomLink = fmt.Sprintf("https://blog.hatena.ne.jp/%s/%s.hatenablog.com/atom/entry", hatenaId, hatenaId)
 }
 
 func getXML(url string) (string, error) {
